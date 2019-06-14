@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyFirstApp</string>
+    <string name="no_data">"何時に起きる?"</string>
+    <string name="pick_time">Pick Time</string>
+</resources>
